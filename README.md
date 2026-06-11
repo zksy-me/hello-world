@@ -1,3 +1,2 @@
 # hello-world
-此存储库用于联系github
-我是谁
+好难好难用
